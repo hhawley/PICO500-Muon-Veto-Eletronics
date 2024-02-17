@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "74xGxx_ModifiedPinsOn2G08")(type "Legacy")(uri "${KIPRJMOD}/74xGxx_ModifiedPinsOn2G08.lib")(options "")(descr ""))
+)
